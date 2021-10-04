@@ -1,2 +1,2 @@
 <h2>react - counter-app</h2>
-<img src="" alt="" />
+<img src="https://github.com/sabajiVikas/react/blob/master/state-counter/screenShot/screenOne.png" alt="screenOne" />

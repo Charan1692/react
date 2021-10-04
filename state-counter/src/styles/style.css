@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: #ffffff;
+  background: #333333;
+}
+
+button {
+  color: #ffffff;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 15px;
+  background-color: #ff6666;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+}

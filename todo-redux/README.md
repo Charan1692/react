@@ -1,2 +1,2 @@
 <h2>react - redux todo</h2>
-<img src="" alt="screenOne" />
+<img src="https://github.com/sabajiVikas/react/blob/master/todo-redux/screenShot/screenOne.png" alt="screenOne" />
